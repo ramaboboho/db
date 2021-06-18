@@ -1,0 +1,30 @@
+{
+     "users":[
+        {
+          "id":1,
+          "nama":"Rama Fajar Fadhillah",
+          "ttl":"Jakarta, 20 Juni 2003"
+        },
+        {
+          "id":2,
+          "nama":"Sayyidah Mursyidah",
+          "ttl":"Bogor, 24 Juli 2001"
+        },
+        {
+         "id":3,
+         "nama" :"Hidayah Muryidah",
+         "ttl" :"Bogor, 24 Juli 2001"
+        },
+        {
+         "id":4,
+         "nama":"Keysa Maulidah",
+         "ttl":"Jakarta 04 Juli 2007"
+        },
+        {
+         "id":5,
+         "nama":"Zakki Aprillio",
+         "ttl" :"Jakarta, 30 April 2012"
+        }
+
+     ]
+}
